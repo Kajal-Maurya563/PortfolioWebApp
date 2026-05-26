@@ -38,8 +38,8 @@ export function SparklesPreview() {
         maxSize={1.4}
         particleDensity={100}   // try higher density if nothing is visible
         className="w-full h-full"
-        // particleColor="#FFFFFF"
-        particleColor="#EE82EE"
+        particleColor="#FFFFFF"
+        // particleColor="#EE82EE"
       />
     </div>
   );
